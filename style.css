@@ -1,0 +1,126 @@
+
+.navbar {
+    background-color: #F5EBEB;
+}
+
+
+.btn-bor {
+    border: solid 1px #867070;
+}
+
+
+.landing {
+    background-color: #E4D0D0;
+}
+
+
+.bizz {
+    color: #2F3030;
+}
+
+
+.gallery {
+    background-color: #F0E9E9;
+}
+
+.card {
+    background-color: #2F3030;
+}
+
+.about {
+    background-color: #E4D0D0;
+}
+
+.eb {
+    height: 300px;
+    border: solid 3px #F5EBEB;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+
+
+.footer-bg {
+    background-color: #F5EBEB;
+}
+
+/* About Me page */
+
+.resume {
+    margin: 1rem;
+    background-color: #F5EBEB;
+}
+
+.rescon {
+    display: grid;
+     height: 100vh auto;
+    /* grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr; */
+    margin: 2rem;
+    gap: 0;
+}
+
+.divone {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.divone > h1 {
+    font-weight: 700;
+}
+
+.one {
+    height: 18rem;
+    border: solid 3px #F5EBEB;
+    border-radius: 50%;
+    border: solid #B3A4A1 5px;
+    filter: drop-shadow(5px 5px 5px);
+}
+
+.divtwo {
+    text-align: justify;
+    margin-bottom: 30px;
+    padding-right: 70px;
+}
+
+.divthree {
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.work-skills {
+    list-style: none;
+    padding: 0;
+}
+
+.divfour {
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.divfive {
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-left: 0px;
+    padding-right: 30px;
+    text-align: center;
+}
+
+.tiger {
+    height: 18rem;
+    border-radius: 5%;
+    filter: drop-shadow(5px 5px 10px);
+}
+
+.contact {
+    list-style: none;
+    padding: 0;
+}
+.restext {
+    color: #2F3030;
+}
